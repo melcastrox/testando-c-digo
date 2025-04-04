@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	Resumo
+	Testando o Código 
 </h1>
 
 1. O **`console.log()`** é uma ferramenta útil para verificar dados e mensagens no processo de desenvolvimento de software.
